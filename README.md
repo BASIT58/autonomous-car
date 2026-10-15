@@ -54,7 +54,10 @@ Hardware was the area where I felt most comfortable. So in my following projects
 
 A short test run of the car (20 seconds):
 
-[Watch the demo video](https://github.com/BASIT58/autonomous-car/raw/main/work%20.mp4)
+
+https://github.com/user-attachments/assets/9a92ad5c-c7ae-4bb7-86df-c01edd4da10a
+
+
 
 ## What I Learned
 
