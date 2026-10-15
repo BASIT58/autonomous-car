@@ -54,7 +54,7 @@ Hardware was the area where I felt most comfortable. So in my following projects
 
 A short test run of the car (20 seconds):
 
-[VIDEO LINK HERE]
+[[Watch the demo video](work_.mp4)]
 
 ## What I Learned
 
